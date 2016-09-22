@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  TextToSpeech
 //
-//  Created by 村上幸雄 on 2016/09/15.
-//  Copyright © 2016年 Yukio MURAKAMI. All rights reserved.
+//  Created by Yukio MURAKAMI on 2016/09/15.
+//  Copyright © 2016年 Bitz Co., Ltd. All rights reserved.
 //
 
 import Cocoa

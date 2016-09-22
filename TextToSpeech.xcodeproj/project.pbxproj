@@ -45,6 +45,8 @@
 		5609E44F1D8AE4CB00F2AED1 /* TextToSpeechUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TextToSpeechUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5609E4531D8AE4CB00F2AED1 /* TextToSpeechUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextToSpeechUITests.swift; sourceTree = "<group>"; };
 		5609E4551D8AE4CB00F2AED1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5609E4611D8AE69200F2AED1 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		5609E4621D8AE69200F2AED1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,8 @@
 		5609E42A1D8AE4CA00F2AED1 = {
 			isa = PBXGroup;
 			children = (
+				5609E4611D8AE69200F2AED1 /* LICENSE */,
+				5609E4621D8AE69200F2AED1 /* README.md */,
 				5609E4351D8AE4CB00F2AED1 /* TextToSpeech */,
 				5609E4471D8AE4CB00F2AED1 /* TextToSpeechTests */,
 				5609E4521D8AE4CB00F2AED1 /* TextToSpeechUITests */,
@@ -186,7 +190,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0800;
 				LastUpgradeCheck = 0800;
-				ORGANIZATIONNAME = "Yukio MURAKAMI";
+				ORGANIZATIONNAME = "Bitz Co., Ltd.";
 				TargetAttributes = {
 					5609E4321D8AE4CA00F2AED1 = {
 						CreatedOnToolsVersion = 8.0;
@@ -496,6 +500,7 @@
 				5609E45A1D8AE4CB00F2AED1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5609E45B1D8AE4CB00F2AED1 /* Build configuration list for PBXNativeTarget "TextToSpeechTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +509,7 @@
 				5609E45D1D8AE4CB00F2AED1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5609E45E1D8AE4CB00F2AED1 /* Build configuration list for PBXNativeTarget "TextToSpeechUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +518,7 @@
 				5609E4601D8AE4CB00F2AED1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
