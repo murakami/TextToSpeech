@@ -49,7 +49,7 @@ class ViewController: NSViewController {
 
             AUGraphAddNode(auGraph, &cd, &inputNode)
 
-            cd = setEffectNode(subType: kAudioUnitType_Effect)
+            cd = setEffectNode(subType: kAudioUnitSubType_Delay)
             //cd = setEffectNode(subType: kAudioUnitSubType_Distortion)
             //cd = setEffectNode(subType: kAudioUnitSubType_LowPassFilter)
             //cd = setEffectNode(subType: kAudioUnitSubType_HighPassFilter)
